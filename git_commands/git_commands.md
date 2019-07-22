@@ -7,6 +7,8 @@ here so you can make an individual PR.
 ``` bash
 # this creates the branch "old-state" in your local fork which is based on commit id "0d1d7fc32"
 git checkout -b old-state 0d1d7fc32
+# push it to your fork on github
+git push --set-upstream origin old-state
 ```
 
 Ref:  
