@@ -28,7 +28,12 @@ https://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote
 
 # Merge upstream repo into your fork
 
-Ref:  
-https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork
+```
+git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME
+git commit -i * -m 'merge with upstream master'
+```
 
+Ref:  
+https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork  
+https://stackoverflow.com/questions/5827944/git-error-on-commit-after-merge-fatal-cannot-do-a-partial-commit-during-a-mer  
 
