@@ -24,6 +24,7 @@ library(shiny)
                      choices = c(export_options = "export options",
                                  export_overview = "export overview",
                                  completeness = "completeness",
+                                 recruitment_plot = "recruitment plot",
                                  scores = "score variables",
                                  linkage = "CDMA linkage"),
                      selected = "export options")
@@ -34,7 +35,8 @@ library(shiny)
       mainPanel(
 
         # Output: Data file ----
-        tableOutput("contents")
+        tableOutput("contents"),
+        plotOutput(outputId = "plot")
 
       )
 
@@ -52,8 +54,6 @@ server <- function(input, output) {
 
     req(input$file1)
 
-    # when reading semicolon separated files,
-    # having a comma separator causes `read.csv` to error
     tryCatch(
       {
         library(secuTrialR)
@@ -75,6 +75,26 @@ server <- function(input, output) {
       return_scores(sT_export)
     } else if (input$disp == "CDMA linkage") {
       links_secuTrial(sT_export)
+    }
+
+  })
+
+  output$plot <- renderPlot({
+
+    req(input$file1)
+
+    tryCatch(
+      {
+        library(secuTrialR)
+        sT_export <- read_secuTrial(input$file1$datapath)
+      },
+      error = function(e) {
+        # return a safeError if a parsing error occurs
+        stop(safeError(e))
+      }
+    )
+    if (input$disp == "recruitment plot") {
+      plot_recruitment(sT_export)
     }
 
   })
