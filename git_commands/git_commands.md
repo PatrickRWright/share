@@ -57,5 +57,6 @@ https://www.git-tower.com/learn/git/commands/git-push
 
 # Renaming a branch
 Could be useful...
+
 Ref:  
 https://www.hostinger.com/tutorials/how-to-rename-a-git-branch/
