@@ -54,3 +54,8 @@ git push origin develop
 
 Ref:  
 https://www.git-tower.com/learn/git/commands/git-push
+
+# renaming a branch
+Could be useful...
+Ref:  
+https://www.hostinger.com/tutorials/how-to-rename-a-git-branch/
