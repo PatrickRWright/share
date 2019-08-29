@@ -37,3 +37,20 @@ Ref:
 https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork  
 https://stackoverflow.com/questions/5827944/git-error-on-commit-after-merge-fatal-cannot-do-a-partial-commit-during-a-mer  
 
+You can also define a remote...
+```
+# only necessary once
+git remote REMOTE_NAME https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+# pull via
+git pull REMOTE_NAME BRANCH_NAME
+```
+...which normally automatically merges and commits.
+
+# Push local branch to origin (i.e. github) 
+E.g. if you've created a branch while not being connected to the internet...
+```
+git push origin develop
+```
+
+Ref:  
+https://www.git-tower.com/learn/git/commands/git-push
