@@ -37,3 +37,15 @@
 “You didn’t initialize thesevariables”  
 “You left out section 3.5.”   
 “How in the world have you managed to...”  
+
+Specifics in R:
+* "Starting your code with an annotated description of what the code does when it is run will help you when you have to look at or change it in the future. Just one or two lines at the beginning of the file can save you or someone else a lot of time and effort when trying to understand what a particular script does."
+* Load all dependencies at the top of the script to avoid road bumps further down the code.
+* Define all paths input files at the top of the code in variables.
+* Group your functions together.
+* 
+
+
+
+
+https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/
