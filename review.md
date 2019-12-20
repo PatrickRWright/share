@@ -50,6 +50,8 @@
 * Run tests of your own (assertthat)
 * As robust as possible to changes in the data (specify by name not by number)
 * define logical chunks
+* define a timeframe for the review (e.g. 2h) The better your code can be read the more will be reviewed.
+If not everything can be reviewed in the timeframe then that is how it is.
 
 https://docs.google.com/document/d/1OYcWJUk-MiM2C1TIHB1Rn6rXoF5fHwRX-7_C12Blx8g/edit#heading=h.dyoxrtoo15mm  
 https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/  
