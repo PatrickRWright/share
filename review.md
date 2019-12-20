@@ -1,4 +1,4 @@
-# [Humanizing Peer Reviews](https://www.processimpact.com/articles/humanizing_reviews.pdf):
+# [Humanizing Peer Reviews](https://www.processimpact.com/articles/humanizing_reviews.pdf)
 
 "We have to overcome the ingrained culture ofindividual achievement and embrace the value of collaboration."
 
