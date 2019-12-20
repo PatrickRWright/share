@@ -72,4 +72,5 @@ https://docs.google.com/document/d/1OYcWJUk-MiM2C1TIHB1Rn6rXoF5fHwRX-7_C12Blx8g/
 https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/  
 https://devguide.ropensci.org/reviewerguide.html
 https://mtlynch.io/human-code-reviews-1/  
+https://mtlynch.io/human-code-reviews-2/  
 https://ropensci.org/commcalls/2018-10-16/  
