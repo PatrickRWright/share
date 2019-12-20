@@ -44,7 +44,7 @@ Specifics in R:
 * Define all paths input files at the top of the code in variables.
 * Group your functions together.
 * Use comments to mark off sections of code.
-* Name and style code consistently.
+* Name and style code consistently (lint).
 * Break code into small, discrete pieces.
 * Factor out common operations rather than repeating them. (DRY)
 
