@@ -38,6 +38,11 @@
 “You left out section 3.5.”   
 “How in the world have you managed to...”  
 
+# [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
+
+## Style
+"Once you have a style guide, you don’t have to waste review cycles arguing with the author about whose naming conventions are best. Just defer to the style guide and move on. If your style guide doesn’t specify a convention about a particular issue, it’s generally not worth arguing about. If you encounter a style issue your guide doesn’t cover and it’s important enough to discuss, hash it out with your team. Then, record the decision in your style guide so you never have to have that discussion again."
+
 # Specifics in R
 * "Starting your code with an annotated description of what the code does when it is run will help you when you have to look at or change it in the future. Just one or two lines at the beginning of the file can save you or someone else a lot of time and effort when trying to understand what a particular script does."
 * Load all dependencies at the top of the script to avoid road bumps further down the code.
