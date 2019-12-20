@@ -55,3 +55,5 @@ If not everything can be reviewed in the timeframe then that is how it is.
 
 https://docs.google.com/document/d/1OYcWJUk-MiM2C1TIHB1Rn6rXoF5fHwRX-7_C12Blx8g/edit#heading=h.dyoxrtoo15mm  
 https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/  
+https://devguide.ropensci.org/reviewerguide.html
+
