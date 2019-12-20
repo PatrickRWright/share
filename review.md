@@ -21,6 +21,8 @@
 * "People who don’t want to do reviews will expendconsiderable energy explaining why reviews don’t fit their culture, needs, or time constraints."
 
 # Overcoming resistence:
+* "Lack of knowledge is easy to correct if people are willing to learn."
+* "The attitudes and behaviors that managers exhibit affect how well reviews will work inan organization."
 
 # Communication examples:
 
