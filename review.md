@@ -1,4 +1,4 @@
-[Humanizing Peer Reviews](https://www.processimpact.com/articles/humanizing_reviews.pdf):
+# [Humanizing Peer Reviews](https://www.processimpact.com/articles/humanizing_reviews.pdf):
 
 "We have to overcome the ingrained culture ofindividual achievement and embrace the value of collaboration."
 
@@ -30,10 +30,10 @@
 # Communication examples
 
 ## Good
-“I didn’t see where these variables were initialized”
-“This specification is missingSection 3.5 from the template”
+“I didn’t see where these variables were initialized”  
+“This specification is missingSection 3.5 from the template”  
 
 ## Bad
-“You didn’t initialize thesevariables” 
-“You left out section 3.5.” 
-“How in the world have you managedto”
+“You didn’t initialize thesevariables”  
+“You left out section 3.5.”   
+“How in the world have you managed to...”  
