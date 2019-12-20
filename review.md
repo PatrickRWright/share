@@ -42,7 +42,7 @@
 
 * "Never say “you”"
 * "If you lighten the author’s load by writing out some of the changes you’re suggesting, you demonstrate that you are generous with your time as a reviewer."
-
+* "Tie notes to principles, not opinions"
 
 ## Style
 * "Once you have a style guide, you don’t have to waste review cycles arguing with the author about whose naming conventions are best. Just defer to the style guide and move on. If your style guide doesn’t specify a convention about a particular issue, it’s generally not worth arguing about. If you encounter a style issue your guide doesn’t cover and it’s important enough to discuss, hash it out with your team. Then, record the decision in your style guide so you never have to have that discussion again."
