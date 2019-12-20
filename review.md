@@ -40,15 +40,16 @@
 
 # [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
 
+* "Never say “you”"
+* "If you lighten the author’s load by writing out some of the changes you’re suggesting, you demonstrate that you are generous with your time as a reviewer."
+
+
 ## Style
 * "Once you have a style guide, you don’t have to waste review cycles arguing with the author about whose naming conventions are best. Just defer to the style guide and move on. If your style guide doesn’t specify a convention about a particular issue, it’s generally not worth arguing about. If you encounter a style issue your guide doesn’t cover and it’s important enough to discuss, hash it out with your team. Then, record the decision in your style guide so you never have to have that discussion again."
 * https://google.github.io/styleguide/Rguide.html
 
 ## Review speed
 * "The absolute maximum turnaround on a review round should be one business day. If you’re struggling with a higher-priority issue and can’t complete a round of review in under a day, let your teammate know and give them the opportunity to reassign it to someone else. If you’re forced to decline reviews more than about once per month, it likely means that your team needs to reduce its pace so that you can maintain sane development practices."
-
-## Heling
-* "If you lighten the author’s load by writing out some of the changes you’re suggesting, you demonstrate that you are generous with your time as a reviewer."
 
 # Specifics in R
 * "Starting your code with an annotated description of what the code does when it is run will help you when you have to look at or change it in the future. Just one or two lines at the beginning of the file can save you or someone else a lot of time and effort when trying to understand what a particular script does."
