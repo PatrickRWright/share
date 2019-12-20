@@ -47,6 +47,9 @@
 ## Review speed
 * "The absolute maximum turnaround on a review round should be one business day. If you’re struggling with a higher-priority issue and can’t complete a round of review in under a day, let your teammate know and give them the opportunity to reassign it to someone else. If you’re forced to decline reviews more than about once per month, it likely means that your team needs to reduce its pace so that you can maintain sane development practices."
 
+## Heling
+* "If you lighten the author’s load by writing out some of the changes you’re suggesting, you demonstrate that you are generous with your time as a reviewer."
+
 # Specifics in R
 * "Starting your code with an annotated description of what the code does when it is run will help you when you have to look at or change it in the future. Just one or two lines at the beginning of the file can save you or someone else a lot of time and effort when trying to understand what a particular script does."
 * Load all dependencies at the top of the script to avoid road bumps further down the code.
