@@ -43,8 +43,10 @@ Specifics in R:
 * Load all dependencies at the top of the script to avoid road bumps further down the code.
 * Define all paths input files at the top of the code in variables.
 * Group your functions together.
-* 
-
+* Use comments to mark off sections of code.
+* Name and style code consistently.
+* Break code into small, discrete pieces.
+* Factor out common operations rather than repeating them. (DRY)
 
 
 
