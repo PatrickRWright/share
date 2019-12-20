@@ -1,3 +1,6 @@
+**Ground truth**: You trust your team and this is never questioned. Set this as a foundation in the team and people
+will likely be less offended by critisism.
+
 # [Humanizing Peer Reviews](https://www.processimpact.com/articles/humanizing_reviews.pdf)
 
 "We have to overcome the ingrained culture ofindividual achievement and embrace the value of collaboration."
