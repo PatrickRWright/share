@@ -98,4 +98,4 @@ https://ropensci.org/commcalls/2018-10-16/
 - "distribute burden"
 - "standards can prevent knowledge loss when people leave"
 
-**Rnw to Rmd?
+### Rnw to Rmd? Maybe that way we could use travis? "Travis builds/renders all Rmds"
