@@ -93,5 +93,5 @@ https://ropensci.org/commcalls/2018-10-16/
 - "look at NAs"
 - "explore outliers"
 - "because time is limiting reviews need to be placed strategically"
-
+- "environment: expect mistakes, mistakes are ok"
 
