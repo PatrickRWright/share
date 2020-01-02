@@ -100,4 +100,6 @@ https://ropensci.org/commcalls/2018-10-16/
 - "standards can prevent knowledge loss when people leave"
 - https://ropensci.org/blog/2018/11/29/codereview/
 
+### Dossierablage MUST be updated
+
 ### Rnw to Rmd? Maybe that way we could use travis? "Travis builds/renders all Rmds"
