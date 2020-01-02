@@ -87,4 +87,10 @@ https://ropensci.org/commcalls/2018-10-16/
 - "ideally we would have someone idependently recreating the code" (unrealistic)
 - "complete external review" (unrealistic)
 - "documentation over code optimization"
+- "training"
+- "break code into managable chunks"
+- "check data dims"
+- "look at NAs"
+- "explore outliers"
+
 
