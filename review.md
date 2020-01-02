@@ -82,6 +82,7 @@ https://www.nature.com/articles/s41559-017-0160
 From this:
 https://ropensci.org/commcalls/2018-10-16/  
 
+- "checklist for review"
 - "structure before function"
 - "promote common practices"
 - "ideally we would have someone idependently recreating the code" (unrealistic)
