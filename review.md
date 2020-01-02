@@ -97,5 +97,6 @@ https://ropensci.org/commcalls/2018-10-16/
 - reusable code/functions should be moved into packages / suggestions during review, discussion in group meeting
 - "distribute burden"
 - "standards can prevent knowledge loss when people leave"
+- https://ropensci.org/blog/2018/11/29/codereview/
 
 ### Rnw to Rmd? Maybe that way we could use travis? "Travis builds/renders all Rmds"
