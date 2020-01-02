@@ -94,4 +94,5 @@ https://ropensci.org/commcalls/2018-10-16/
 - "explore outliers"
 - "because time is limiting reviews need to be placed strategically"
 - "environment: expect mistakes, mistakes are ok"
+- reusable code/functions should be moved into packages
 
