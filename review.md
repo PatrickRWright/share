@@ -77,7 +77,7 @@ https://devguide.ropensci.org/reviewerguide.html
 https://mtlynch.io/human-code-reviews-1/  
 https://mtlynch.io/human-code-reviews-2/  
 https://ropensci.org/commcalls/2018-10-16/  
-
+https://www.nature.com/articles/s41559-017-0160  
 
 From this:
 https://ropensci.org/commcalls/2018-10-16/  
