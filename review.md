@@ -77,3 +77,10 @@ https://devguide.ropensci.org/reviewerguide.html
 https://mtlynch.io/human-code-reviews-1/  
 https://mtlynch.io/human-code-reviews-2/  
 https://ropensci.org/commcalls/2018-10-16/  
+
+
+From this:
+https://ropensci.org/commcalls/2018-10-16/  
+
+- structure before function
+
