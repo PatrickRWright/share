@@ -82,5 +82,9 @@ https://ropensci.org/commcalls/2018-10-16/
 From this:
 https://ropensci.org/commcalls/2018-10-16/  
 
-- structure before function
+- "structure before function"
+- "promote common practices"
+- "ideally we would have someone idependently recreating the code" (unrealistic)
+- "complete external review" (unrealistic)
+- "documentation over code optimization"
 
