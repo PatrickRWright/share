@@ -92,5 +92,6 @@ https://ropensci.org/commcalls/2018-10-16/
 - "check data dims"
 - "look at NAs"
 - "explore outliers"
+- "because time is limiting reviews need to be placed strategically"
 
 
