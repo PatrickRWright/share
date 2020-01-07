@@ -64,6 +64,7 @@ will likely be less offended by critisism.
 * Use comments to mark off sections of code.
 * Name and style code consistently (lint).
 * Break code into small, discrete pieces.
+* Chunk Tasks up into subtasks which can be individuall reviewed (e.g. data set separate from analysis).
 * Factor out common operations rather than repeating them. (DRY)
 * Run tests of your own (assertthat)
 * As robust as possible to changes in the data (specify by name not by number)
