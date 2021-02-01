@@ -37,3 +37,13 @@ Ref:
 https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork  
 https://stackoverflow.com/questions/5827944/git-error-on-commit-after-merge-fatal-cannot-do-a-partial-commit-during-a-mer  
 
+# Add a local branch to the remote
+
+If you're offline and create a new branch through e.g. RStudio, the branch does not sync to github automatically. This add's it.
+
+```
+git push -u origin <branch>
+```
+
+Ref:  
+https://stackoverflow.com/questions/2765421/how-do-i-push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too
